@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "name": "definitelytested.github.io",
+  "version": "1.0.0",
+  "description": "DefinitelyTested website",
+  "main": "index.js",
+  "keywords": [
+    "DefinitelyTested",
+    "website"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type-check": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullStackCraft/DefinitelyTested.git"
+  },
+  "author": "DefinitelyTested",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FullStackCraft/DefinitelyTested/issues"
+  },
+  "homepage": "https://github.com/FullStackCraft/DefinitelyTested#readme",
+  "devDependencies": {
+    "@react-native-async-storage/async-storage": "^1.15.11",
+    "@types/jest": "^27.0.2",
+    "@types/react-native": "^0.66.2",
+    "jest": "^27.3.1",
+    "react-native": "^0.66.2",
+    "typescript": "^4.4.4"
+  }
+}
