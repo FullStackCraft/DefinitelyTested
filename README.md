@@ -2,7 +2,7 @@
 
 The repository for high quality mock definitions.
 
-Why DefinitelyTested? See [this blog post]().
+Why DefinitelyTested? See [this blog post](https://chrisfrew.in/blog/a-production-ready-jest-setup-for-react-native-all-mocks/).
 
 ## Get Started
 
